@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jackylauql/SudokuGame-with-Solver)
+
 # SudokuGame-with-Solver
 
 This is a Sudoku game with a solver built with Python using pygame. Run SudokuGame.py to run the application.
